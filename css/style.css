@@ -56,7 +56,6 @@ body {
 .person__photo {
   margin-right: 32px;
   border-radius: 75px;
-  height: 150px;
   max-width: 150px;
 }
 
